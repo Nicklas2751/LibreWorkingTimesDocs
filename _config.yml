@@ -29,7 +29,7 @@ twitter_username: nicklas2751
 github_username:  nicklas2751
 
 # Build settings
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
