@@ -7,13 +7,5 @@ nav_order: 4
 # Evaluation
 {: .no_toc }
 
-Entry evaluations and statistics.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
+The evaluation view contains entry evaluations like the amount of overtime and working time in the current week and month. \
+On the bottom is a diagram which shows the working time and overtime devlopment of the past months.
