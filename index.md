@@ -21,7 +21,7 @@ The documentation is up to date for version [1.0.0](https://github.com/Nicklas27
 
 ## Getting started
 
-Go to [libreworkingtimes.wiegandt.eu](https://libreworkingtimes.wiegandt.eu/)
+Go to [app.libreworkingtimes.wiegandt.eu](https://app.libreworkingtimes.wiegandt.eu/)
 
 ### iOS
 
