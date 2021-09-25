@@ -31,6 +31,8 @@ github_username:  nicklas2751
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 
+search_enabled: true
+
 # Aux links for the upper right navigation
 aux_links:
   "LibreWorkingTimes on GitHub":
